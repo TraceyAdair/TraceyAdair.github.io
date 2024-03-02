@@ -59,6 +59,7 @@ h2 {
     color: black;
 }
 
+
 #menu-tabs {
     display: flex;
     flex-direction: row;
@@ -69,12 +70,8 @@ h2 {
     padding-bottom: 20px;
     margin: 0px;
 }
-/*#workInfo {
+#workInfo {
     background-color: #103045;
     color: white;
 }
-*/
 
-#contact-Info {
-    
-}

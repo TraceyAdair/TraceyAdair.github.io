@@ -1,20 +1,17 @@
 console.log("Hello World!");
 
 var workInfo = document.getElementById("workInfo");
-var contact = document.getElementById("contact")
-
-
 
 console.log(workInfo)
 
+
 workInfo.addEventListener('mouseover', banana);
 workInfo.addEventListener('mouseout', orange);
-contact.addEventListener('mouseover', banana)
+
 
 function banana() {
-    //alert("You called?")
+    alert("Call me at 435.255.0976")
     //workInfo.innerHTML = "You're awsome!";
-    contact.innerHTML  = "Call or Text 435.255.0976"
 }
 
 function orange() {
