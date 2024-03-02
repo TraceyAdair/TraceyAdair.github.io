@@ -1,0 +1,80 @@
+header {
+    align-items: center;
+    background-color: #103045;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+menu {
+    margin: 0px;
+    padding: 0px;
+}
+
+section{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+footer {
+    background-color: #D880C1;
+    color: whitesmoke;
+    padding: 20px 650px;
+    display: flex;
+   }
+
+h2 {
+    border-style: groove;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.purple-background {
+    background-color: purple;
+}
+
+.centered {
+    text-align: center;
+}
+
+.intro {
+    max-width: 500px;
+    text-align: left;
+}
+
+.imgborder {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+.menu-item {
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+#menu-tabs {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    background-color: #D880C1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0px;
+}
+/*#workInfo {
+    background-color: #103045;
+    color: white;
+}
+*/
+
+#contact-Info {
+    
+}

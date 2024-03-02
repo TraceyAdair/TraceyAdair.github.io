@@ -1,0 +1,13 @@
+header {
+    background-color: #103045;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+P {
+    font-size: 12px;
+    text-align: center;
+}
