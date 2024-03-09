@@ -1,0 +1,38 @@
+body{
+    background-image: url('mekeyboardbitmoji.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+img{
+    opacity: 0.1;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.pbox {
+    border: mediumblue
+    
+}
+
+.pardir {
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 25%;
+
+}
+
+.paragraph {
+    font-weight: 500;
+    font-size: x-large;
+    
+}
+
+.footdir {
+    text-align: right;
+}
+

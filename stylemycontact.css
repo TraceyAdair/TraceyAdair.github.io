@@ -1,0 +1,36 @@
+ 
+
+
+
+body {
+    background-color: teal;
+    color: black
+    }
+
+h1 {
+    background-color: yellowgreen;
+    width: 80%;
+    border: solid;
+}
+
+table {
+    width: 80%;
+    background-color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    border: solid;
+   
+}
+
+td {
+    border-bottom: 2px solid;
+}
+
+tr:hover {background-color: yellow;
+
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}

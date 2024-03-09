@@ -7,7 +7,13 @@ header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body {
+    
+}
+
 P {
-    font-size: 12px;
+    font-size: 48px;
     text-align: center;
 }
+
+

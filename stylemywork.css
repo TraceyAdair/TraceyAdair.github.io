@@ -1,0 +1,61 @@
+h1 { 
+    background-color: #103045;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}  
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+
+
+footer {
+    background-color: #D880C1;
+    color: whitesmoke;
+    padding: 20px 650px;
+    display: flex;
+   }
+
+@keyframes slideInRight{
+    from{
+        transform: translateX(100%);
+    }
+
+    to{
+        transform: translateX(0);
+    }
+}
+
+.animate1 {
+    animation-name: slideInRight;
+    animation-duration: 4s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+}
+
+.animate2 {
+    animation-name: slideInRight;
+    animation-duration: 4s;
+    animation-timing-function: ease-in;
+    animation-delay: 4s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+}
+
+.animate3 {
+    animation-name: slideInRight;
+    animation-duration: 4s;
+    animation-timing-function: ease-in;
+    animation-delay: 8s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+}
