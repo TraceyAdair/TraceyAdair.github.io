@@ -22,7 +22,7 @@ footer {
 
 @keyframes slideInRight{
     from{
-        transform: translateX(100%);
+        transform: translateX(50%);
     }
 
     to{
@@ -32,7 +32,7 @@ footer {
 
 .animate1 {
     animation-name: slideInRight;
-    animation-duration: 4s;
+    animation-duration: 10s;
     animation-timing-function: ease-in;
     animation-delay: 0s;
     animation-iteration-count: 1;
@@ -42,9 +42,9 @@ footer {
 
 .animate2 {
     animation-name: slideInRight;
-    animation-duration: 4s;
+    animation-duration: 10s;
     animation-timing-function: ease-in;
-    animation-delay: 4s;
+    animation-delay: 0s;
     animation-iteration-count: 1;
     animation-direction: normal;
     animation-fill-mode: none;
@@ -52,9 +52,9 @@ footer {
 
 .animate3 {
     animation-name: slideInRight;
-    animation-duration: 4s;
+    animation-duration: 10s;
     animation-timing-function: ease-in;
-    animation-delay: 8s;
+    animation-delay: 0s;
     animation-iteration-count: 1;
     animation-direction: normal;
     animation-fill-mode: none;

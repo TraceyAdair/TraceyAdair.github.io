@@ -1,0 +1,15 @@
+h1 { 
+    background-color: #103045;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+
+.map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
